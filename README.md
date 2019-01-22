@@ -1,7 +1,7 @@
 ﻿# Личный проект «Техномарт»
 
-* Студент: [Алексей Огродничук] (https://up.htmlacademy.ru/htmlcss/24/user/975485).
-* Наставник: [Дмитрий Гуляев] (https://htmlacademy.ru/profile/dima).
+* Студент: [Алексей Огродничук](https://up.htmlacademy.ru/htmlcss/24/user/975485)!
+* Наставник: [Дмитрий Гуляев](https://htmlacademy.ru/profile/dima)!
 
 ---
 
